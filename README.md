@@ -54,7 +54,6 @@ Site will be available at `http://localhost:4321`
 ├── src/
 │   ├── components/  # Reusable components
 │   │   ├── home/    # Home page specific components
-│   │   ├── About.astro
 │   │   ├── Contact.astro
 │   │   ├── Experience.astro
 │   │   ├── Projects.astro
